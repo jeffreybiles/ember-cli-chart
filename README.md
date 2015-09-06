@@ -36,3 +36,8 @@ In your handlebars template just do:
 ```
 {{ember-chart type='Line' data=model.chartData width=200 height=200 legend=true}}
 ```
+
+### Other Resources
+
+* [EmberScreencasts video on creating bar charts with ember-cli-chart](https://www.emberscreencasts.com/posts/46-bar-charts-with-ember-cli-chart)
+* [Emberscreencasts video on creating time series line graphs with ember-cli-chart](https://www.emberscreencasts.com/posts/47-time-series-line-graphs-with-ember-cli-chart) (requires a pro subscription)
